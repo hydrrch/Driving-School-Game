@@ -1,0 +1,649 @@
+fileFormatVersion: 2
+guid: 8e4e7910a51ce16429e1af9ad7fdd533
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: //RootNode
+  - first:
+      1: 100002
+    second: body
+  - first:
+      1: 100004
+    second: bull bars
+  - first:
+      1: 100006
+    second: Caliper FL
+  - first:
+      1: 100008
+    second: Caliper FR
+  - first:
+      1: 100010
+    second: Caliper RL
+  - first:
+      1: 100012
+    second: Caliper RR
+  - first:
+      1: 100014
+    second: driver
+  - first:
+      1: 100016
+    second: exhaust
+  - first:
+      1: 100018
+    second: front bumper
+  - first:
+      1: 100020
+    second: interior
+  - first:
+      1: 100022
+    second: LED lights
+  - first:
+      1: 100024
+    second: lic plate
+  - first:
+      1: 100026
+    second: light lft
+  - first:
+      1: 100028
+    second: offroad lights front
+  - first:
+      1: 100030
+    second: rear bumper
+  - first:
+      1: 100032
+    second: roof rack
+  - first:
+      1: 100034
+    second: snorkle
+  - first:
+      1: 100036
+    second: spare tire carrier
+  - first:
+      1: 100038
+    second: spotlight lft
+  - first:
+      1: 100040
+    second: steering wheel
+  - first:
+      1: 100042
+    second: step bars
+  - first:
+      1: 100044
+    second: suspension
+  - first:
+      1: 100046
+    second: tow hooks
+  - first:
+      1: 100048
+    second: trailer hitch
+  - first:
+      1: 100050
+    second: Whl HD FL
+  - first:
+      1: 100052
+    second: Whl HD FR
+  - first:
+      1: 100054
+    second: Whl HD RL
+  - first:
+      1: 100056
+    second: Whl HD RR
+  - first:
+      1: 100058
+    second: winch
+  - first:
+      1: 100060
+    second: wiper rear
+  - first:
+      1: 100062
+    second: wipers
+  - first:
+      4: 400000
+    second: //RootNode
+  - first:
+      4: 400002
+    second: body
+  - first:
+      4: 400004
+    second: bull bars
+  - first:
+      4: 400006
+    second: Caliper FL
+  - first:
+      4: 400008
+    second: Caliper FR
+  - first:
+      4: 400010
+    second: Caliper RL
+  - first:
+      4: 400012
+    second: Caliper RR
+  - first:
+      4: 400014
+    second: driver
+  - first:
+      4: 400016
+    second: exhaust
+  - first:
+      4: 400018
+    second: front bumper
+  - first:
+      4: 400020
+    second: interior
+  - first:
+      4: 400022
+    second: LED lights
+  - first:
+      4: 400024
+    second: lic plate
+  - first:
+      4: 400026
+    second: light lft
+  - first:
+      4: 400028
+    second: offroad lights front
+  - first:
+      4: 400030
+    second: rear bumper
+  - first:
+      4: 400032
+    second: roof rack
+  - first:
+      4: 400034
+    second: snorkle
+  - first:
+      4: 400036
+    second: spare tire carrier
+  - first:
+      4: 400038
+    second: spotlight lft
+  - first:
+      4: 400040
+    second: steering wheel
+  - first:
+      4: 400042
+    second: step bars
+  - first:
+      4: 400044
+    second: suspension
+  - first:
+      4: 400046
+    second: tow hooks
+  - first:
+      4: 400048
+    second: trailer hitch
+  - first:
+      4: 400050
+    second: Whl HD FL
+  - first:
+      4: 400052
+    second: Whl HD FR
+  - first:
+      4: 400054
+    second: Whl HD RL
+  - first:
+      4: 400056
+    second: Whl HD RR
+  - first:
+      4: 400058
+    second: winch
+  - first:
+      4: 400060
+    second: wiper rear
+  - first:
+      4: 400062
+    second: wipers
+  - first:
+      23: 2300000
+    second: body
+  - first:
+      23: 2300002
+    second: bull bars
+  - first:
+      23: 2300004
+    second: Caliper FL
+  - first:
+      23: 2300006
+    second: Caliper FR
+  - first:
+      23: 2300008
+    second: Caliper RL
+  - first:
+      23: 2300010
+    second: Caliper RR
+  - first:
+      23: 2300012
+    second: driver
+  - first:
+      23: 2300014
+    second: exhaust
+  - first:
+      23: 2300016
+    second: front bumper
+  - first:
+      23: 2300018
+    second: interior
+  - first:
+      23: 2300020
+    second: LED lights
+  - first:
+      23: 2300022
+    second: lic plate
+  - first:
+      23: 2300024
+    second: light lft
+  - first:
+      23: 2300026
+    second: offroad lights front
+  - first:
+      23: 2300028
+    second: rear bumper
+  - first:
+      23: 2300030
+    second: roof rack
+  - first:
+      23: 2300032
+    second: snorkle
+  - first:
+      23: 2300034
+    second: spare tire carrier
+  - first:
+      23: 2300036
+    second: spotlight lft
+  - first:
+      23: 2300038
+    second: steering wheel
+  - first:
+      23: 2300040
+    second: step bars
+  - first:
+      23: 2300042
+    second: suspension
+  - first:
+      23: 2300044
+    second: tow hooks
+  - first:
+      23: 2300046
+    second: trailer hitch
+  - first:
+      23: 2300048
+    second: Whl HD FL
+  - first:
+      23: 2300050
+    second: Whl HD FR
+  - first:
+      23: 2300052
+    second: Whl HD RL
+  - first:
+      23: 2300054
+    second: Whl HD RR
+  - first:
+      23: 2300056
+    second: winch
+  - first:
+      23: 2300058
+    second: wiper rear
+  - first:
+      23: 2300060
+    second: wipers
+  - first:
+      33: 3300000
+    second: body
+  - first:
+      33: 3300002
+    second: bull bars
+  - first:
+      33: 3300004
+    second: Caliper FL
+  - first:
+      33: 3300006
+    second: Caliper FR
+  - first:
+      33: 3300008
+    second: Caliper RL
+  - first:
+      33: 3300010
+    second: Caliper RR
+  - first:
+      33: 3300012
+    second: driver
+  - first:
+      33: 3300014
+    second: exhaust
+  - first:
+      33: 3300016
+    second: front bumper
+  - first:
+      33: 3300018
+    second: interior
+  - first:
+      33: 3300020
+    second: LED lights
+  - first:
+      33: 3300022
+    second: lic plate
+  - first:
+      33: 3300024
+    second: light lft
+  - first:
+      33: 3300026
+    second: offroad lights front
+  - first:
+      33: 3300028
+    second: rear bumper
+  - first:
+      33: 3300030
+    second: roof rack
+  - first:
+      33: 3300032
+    second: snorkle
+  - first:
+      33: 3300034
+    second: spare tire carrier
+  - first:
+      33: 3300036
+    second: spotlight lft
+  - first:
+      33: 3300038
+    second: steering wheel
+  - first:
+      33: 3300040
+    second: step bars
+  - first:
+      33: 3300042
+    second: suspension
+  - first:
+      33: 3300044
+    second: tow hooks
+  - first:
+      33: 3300046
+    second: trailer hitch
+  - first:
+      33: 3300048
+    second: Whl HD FL
+  - first:
+      33: 3300050
+    second: Whl HD FR
+  - first:
+      33: 3300052
+    second: Whl HD RL
+  - first:
+      33: 3300054
+    second: Whl HD RR
+  - first:
+      33: 3300056
+    second: winch
+  - first:
+      33: 3300058
+    second: wiper rear
+  - first:
+      33: 3300060
+    second: wipers
+  - first:
+      43: 4300000
+    second: body
+  - first:
+      43: 4300002
+    second: interior
+  - first:
+      43: 4300004
+    second: driver
+  - first:
+      43: 4300006
+    second: steering wheel
+  - first:
+      43: 4300008
+    second: front bumper
+  - first:
+      43: 4300010
+    second: bull bars
+  - first:
+      43: 4300012
+    second: winch
+  - first:
+      43: 4300014
+    second: offroad lights front
+  - first:
+      43: 4300016
+    second: LED lights
+  - first:
+      43: 4300018
+    second: rear bumper
+  - first:
+      43: 4300020
+    second: lic plate
+  - first:
+      43: 4300022
+    second: step bars
+  - first:
+      43: 4300024
+    second: exhaust
+  - first:
+      43: 4300026
+    second: trailer hitch
+  - first:
+      43: 4300028
+    second: roof rack
+  - first:
+      43: 4300030
+    second: snorkle
+  - first:
+      43: 4300032
+    second: tow hooks
+  - first:
+      43: 4300034
+    second: spare tire carrier
+  - first:
+      43: 4300036
+    second: spotlight lft
+  - first:
+      43: 4300038
+    second: light lft
+  - first:
+      43: 4300040
+    second: wipers
+  - first:
+      43: 4300042
+    second: wiper rear
+  - first:
+      43: 4300044
+    second: suspension
+  - first:
+      43: 4300046
+    second: Caliper FL
+  - first:
+      43: 4300048
+    second: Whl HD FL
+  - first:
+      43: 4300050
+    second: Caliper RL
+  - first:
+      43: 4300052
+    second: Whl HD RL
+  - first:
+      43: 4300054
+    second: Caliper RR
+  - first:
+      43: 4300056
+    second: Whl HD RR
+  - first:
+      43: 4300058
+    second: Caliper FR
+  - first:
+      43: 4300060
+    second: Whl HD FR
+  - first:
+      74: 7400000
+    second: modo_Anim
+  - first:
+      95: 9500000
+    second: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 101716OFFRD-HD-wheelrim
+    second: {fileID: 2100000, guid: 65f2b551d7e8e694b8cb3a7d65a0012d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 101716OFFRD-HD-wheeltyre
+    second: {fileID: 2100000, guid: 5a309a71d7fbd9c42820ef73a7509243, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 101716OFFRD-bodycolor
+    second: {fileID: 2100000, guid: b232a6bbeb71bbe4c94bc03012c47114, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 101716OFFRD-brakelights
+    second: {fileID: 2100000, guid: 6b93a4de0c28e5243ae80f9d60a5fb5d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 101716OFFRD-diffuse
+    second: {fileID: 2100000, guid: 82a4dac62891392429a815b49266a64e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 101716OFFRD-glass
+    second: {fileID: 2100000, guid: 173eaeef98a0baa4b80135269e6fd360, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 101716OFFRD-glass-tint
+    second: {fileID: 2100000, guid: 4b1fc204764c3a547a478a9afd775e82, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 101716OFFRD-interior
+    second: {fileID: 2100000, guid: daf2e7dee704dd943a9bd05594aeb5b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 101716OFFRD-licenceplate
+    second: {fileID: 2100000, guid: 6bc17f80195c06841be23d4f530ed81b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 101716OFFRD-mirror
+    second: {fileID: 2100000, guid: 8e2c4e7c64108e341b266ee0e6a4a43e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 101716OFFRD-reflective
+    second: {fileID: 2100000, guid: 4037bb80ef3b74d4190c2618145f905f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 101716OFFRD-textured-black
+    second: {fileID: 2100000, guid: 787cc81259f1e2441a101e2017ca5099, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 101716OFFRD-trims
+    second: {fileID: 2100000, guid: dfce6cee8f404c1428d6841d6f5b1dbc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 101716OFFRD-windows
+    second: {fileID: 2100000, guid: 19e23711362017146bc11f0d36886757, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GR3D-driver
+    second: {fileID: 2100000, guid: 98059da634439fe498390cdd4d5f13ce, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 3
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 0
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

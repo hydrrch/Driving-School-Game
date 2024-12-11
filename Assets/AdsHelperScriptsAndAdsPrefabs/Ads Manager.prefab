@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8328621233252775362
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8328621233252775372}
+  - component: {fileID: 8328621233252775363}
+  m_Layer: 0
+  m_Name: Ads Manager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8328621233252775372
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8328621233252775362}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8328621233252775363
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8328621233252775362}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6681256164192f4a8738bb67e0f6d88, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  AndroidIds:
+    AppId: 
+    BannerId: 
+    InterstitialId: 
+    RewardedId: 
+    AppOpenId: 
+  IosIds:
+    AppId: 
+    BannerId: 
+    InterstitialId: 
+    RewardedId: 
+    AppOpenId: 
+  BannerAdPosition: 3
+  RecBannerAdPosition: 4
+  TestAds: 1
+  ShowBannerFromGameLaunching: 0
+  IsAppOpenAd: 0
+  RamRangeToRestrictAds: 0
+  BannerStatusText: {fileID: 0}
+  InterstitialStatusText: {fileID: 0}
+  RewardedStatusText: {fileID: 0}
+  DummyRewardedAd: {fileID: 9186041201279122150, guid: 330eb0d01bf1e8947ab2f69c2549e95f, type: 3}
+  OnAdLoadedEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  OnAdFailedToLoadEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  OnAdOpeningEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  OnAdFailedToShowEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  OnUserEarnedRewardEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  OnAdClosedEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  recBannerCanvasPrefab: {fileID: 3500000425560227964, guid: d7af17bf531756b41a15472238a39454, type: 3}
+  dummyRewardedAd: {fileID: 0}
+  IsPrint: 0

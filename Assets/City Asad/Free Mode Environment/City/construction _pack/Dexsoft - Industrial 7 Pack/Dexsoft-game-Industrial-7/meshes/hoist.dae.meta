@@ -1,0 +1,134 @@
+fileFormatVersion: 2
+guid: 7223d32bc6a09834696ff37423331d38
+timeCreated: 1515537185
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: attention_diff__Image___Texture_
+    100002: base
+    100004: Camera
+    100006: Directional_Light
+    100008: floor04_diff__Image___Texture_
+    100010: floor04_disp__Image___Texture_
+    100012: //RootNode
+    100014: hoist_diff__Image___Texture_
+    100016: hoist_disp__Image___Texture_
+    100018: Image__backdrop_with_overhead_spotlight__Texture_
+    100020: Overhead_Spotlight_01
+    100022: Render
+    100024: Texture_Group
+    100026: Texture_Group__2_
+    400000: attention_diff__Image___Texture_
+    400002: base
+    400004: Camera
+    400006: Directional_Light
+    400008: floor04_diff__Image___Texture_
+    400010: floor04_disp__Image___Texture_
+    400012: //RootNode
+    400014: hoist_diff__Image___Texture_
+    400016: hoist_disp__Image___Texture_
+    400018: Image__backdrop_with_overhead_spotlight__Texture_
+    400020: Overhead_Spotlight_01
+    400022: Render
+    400024: Texture_Group
+    400026: Texture_Group__2_
+    2000000: Camera
+    2300000: base
+    3300000: base
+    4300000: base
+    9500000: //RootNode
+    10800000: Directional_Light
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: attention
+    second: {fileID: 2100000, guid: 2e224fc3471d5e644bcaf48e67c8fd9a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: floor
+    second: {fileID: 2100000, guid: 694b88e09d0122e45aa5dbd28ecaa52b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hoist
+    second: {fileID: 2100000, guid: 0238ccafcbb1c18499cc9ed70bfe6e4c, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 3
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

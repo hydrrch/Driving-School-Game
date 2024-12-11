@@ -1,0 +1,364 @@
+fileFormatVersion: 2
+guid: 1b6d9676ae552f34da3bfec8d06eaf8f
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: //RootNode
+  - first:
+      1: 100002
+    second: body
+  - first:
+      1: 100004
+    second: Caliper FL
+  - first:
+      1: 100006
+    second: Caliper FR
+  - first:
+      1: 100008
+    second: Caliper RL
+  - first:
+      1: 100010
+    second: Caliper RR
+  - first:
+      1: 100012
+    second: driver
+  - first:
+      1: 100014
+    second: interior
+  - first:
+      1: 100016
+    second: steering wheel
+  - first:
+      1: 100018
+    second: Whl HD FL
+  - first:
+      1: 100020
+    second: Whl HD FR
+  - first:
+      1: 100022
+    second: Whl HD RL
+  - first:
+      1: 100024
+    second: Whl HD RR
+  - first:
+      1: 100026
+    second: wing
+  - first:
+      4: 400000
+    second: //RootNode
+  - first:
+      4: 400002
+    second: body
+  - first:
+      4: 400004
+    second: Caliper FL
+  - first:
+      4: 400006
+    second: Caliper FR
+  - first:
+      4: 400008
+    second: Caliper RL
+  - first:
+      4: 400010
+    second: Caliper RR
+  - first:
+      4: 400012
+    second: driver
+  - first:
+      4: 400014
+    second: interior
+  - first:
+      4: 400016
+    second: steering wheel
+  - first:
+      4: 400018
+    second: Whl HD FL
+  - first:
+      4: 400020
+    second: Whl HD FR
+  - first:
+      4: 400022
+    second: Whl HD RL
+  - first:
+      4: 400024
+    second: Whl HD RR
+  - first:
+      4: 400026
+    second: wing
+  - first:
+      23: 2300000
+    second: body
+  - first:
+      23: 2300002
+    second: Caliper FL
+  - first:
+      23: 2300004
+    second: Caliper FR
+  - first:
+      23: 2300006
+    second: Caliper RL
+  - first:
+      23: 2300008
+    second: Caliper RR
+  - first:
+      23: 2300010
+    second: driver
+  - first:
+      23: 2300012
+    second: interior
+  - first:
+      23: 2300014
+    second: steering wheel
+  - first:
+      23: 2300016
+    second: Whl HD FL
+  - first:
+      23: 2300018
+    second: Whl HD FR
+  - first:
+      23: 2300020
+    second: Whl HD RL
+  - first:
+      23: 2300022
+    second: Whl HD RR
+  - first:
+      23: 2300024
+    second: wing
+  - first:
+      33: 3300000
+    second: body
+  - first:
+      33: 3300002
+    second: Caliper FL
+  - first:
+      33: 3300004
+    second: Caliper FR
+  - first:
+      33: 3300006
+    second: Caliper RL
+  - first:
+      33: 3300008
+    second: Caliper RR
+  - first:
+      33: 3300010
+    second: driver
+  - first:
+      33: 3300012
+    second: interior
+  - first:
+      33: 3300014
+    second: steering wheel
+  - first:
+      33: 3300016
+    second: Whl HD FL
+  - first:
+      33: 3300018
+    second: Whl HD FR
+  - first:
+      33: 3300020
+    second: Whl HD RL
+  - first:
+      33: 3300022
+    second: Whl HD RR
+  - first:
+      33: 3300024
+    second: wing
+  - first:
+      43: 4300000
+    second: body
+  - first:
+      43: 4300002
+    second: interior
+  - first:
+      43: 4300004
+    second: driver
+  - first:
+      43: 4300006
+    second: steering wheel
+  - first:
+      43: 4300008
+    second: Caliper RR
+  - first:
+      43: 4300010
+    second: Whl HD RR
+  - first:
+      43: 4300012
+    second: Caliper FR
+  - first:
+      43: 4300014
+    second: Whl HD FR
+  - first:
+      43: 4300016
+    second: Caliper FL
+  - first:
+      43: 4300018
+    second: Whl HD FL
+  - first:
+      43: 4300020
+    second: Caliper RL
+  - first:
+      43: 4300022
+    second: Whl HD RL
+  - first:
+      43: 4300024
+    second: wing
+  - first:
+      74: 7400000
+    second: modo_Anim
+  - first:
+      95: 9500000
+    second: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 011915SSCR-HD-wheelrim
+    second: {fileID: 2100000, guid: 4e2aeb8fe23281a44a9ee0102c3c317f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 011915SSCR-HD-wheeltyre
+    second: {fileID: 2100000, guid: 21387d609c4cdb34eab6d723975e7aaf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 011915SSCR-bodycolor
+    second: {fileID: 2100000, guid: 86bc35146b2a83d49ad4eb3a5166fa00, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 011915SSCR-brakelights
+    second: {fileID: 2100000, guid: 2f76fe7ff4dc5ca4bbef3d9f41d01c0f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 011915SSCR-diffuse
+    second: {fileID: 2100000, guid: d6323bcb8ece3c04f95929939b2c5e65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 011915SSCR-glass
+    second: {fileID: 2100000, guid: e9d5c5b37c216a04d818cda4f4e0154c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 011915SSCR-interior
+    second: {fileID: 2100000, guid: 24eb8597b261f2c479433f17988110e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 011915SSCR-mirror
+    second: {fileID: 2100000, guid: cd007074df9824244befa012a2d51132, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 011915SSCR-reflective
+    second: {fileID: 2100000, guid: b551e673eb622de4b9cd18a1bc7f333f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 011915SSCR-trims
+    second: {fileID: 2100000, guid: 6f1fc93882b7153478c84b33a82654cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 011915SSCR-windows
+    second: {fileID: 2100000, guid: ab66e0d5b24cb6c488941bb10c41ba49, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GR3D-driver
+    second: {fileID: 2100000, guid: 70d384ef85c1599419a03e03b5c4dc58, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 3
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 0
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

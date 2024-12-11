@@ -1,0 +1,270 @@
+fileFormatVersion: 2
+guid: 023a25baa2721fb4aa15e0c070daa7f0
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: _Collision
+    100002: AutomobileBody
+    100004: BrakeLights
+    100006: Car
+    100008: Frame
+    100010: Front
+    100012: Front_Upgrade
+    100014: Glass
+    100016: Hood
+    100018: Hood_Intake
+    100020: Hood_Powerful
+    100022: Hood_Standard
+    100024: Lights
+    100026: //RootNode
+    100028: PoliceDecals
+    100030: Rear
+    100032: Rear_Upgrade
+    100034: Side
+    100036: Side_Standard
+    100038: Side_Upgrade
+    100040: Spoiler
+    100042: Spoiler_Standard
+    100044: Spoiler_Upgrade
+    100046: Wheel_FL-Scale94
+    100048: Wheel_FR-Scale94
+    100050: Wheel_RL-Scale94
+    100052: Wheel_RR-Scale94
+    100054: Wheels
+    400000: _Collision
+    400002: AutomobileBody
+    400004: BrakeLights
+    400006: Car
+    400008: Frame
+    400010: Front
+    400012: Front_Upgrade
+    400014: Glass
+    400016: Hood
+    400018: Hood_Intake
+    400020: Hood_Powerful
+    400022: Hood_Standard
+    400024: Lights
+    400026: //RootNode
+    400028: PoliceDecals
+    400030: Rear
+    400032: Rear_Upgrade
+    400034: Side
+    400036: Side_Standard
+    400038: Side_Upgrade
+    400040: Spoiler
+    400042: Spoiler_Standard
+    400044: Spoiler_Upgrade
+    400046: Wheel_FL-Scale94
+    400048: Wheel_FR-Scale94
+    400050: Wheel_RL-Scale94
+    400052: Wheel_RR-Scale94
+    400054: Wheels
+    2300000: _Collision
+    2300002: AutomobileBody
+    2300004: BrakeLights
+    2300006: Frame
+    2300008: Front_Upgrade
+    2300010: Glass
+    2300012: Hood_Intake
+    2300014: Hood_Powerful
+    2300016: Hood_Standard
+    2300018: Lights
+    2300020: PoliceDecals
+    2300022: Rear_Upgrade
+    2300024: Side_Standard
+    2300026: Side_Upgrade
+    2300028: Spoiler_Standard
+    2300030: Spoiler_Upgrade
+    3300000: _Collision
+    3300002: AutomobileBody
+    3300004: BrakeLights
+    3300006: Frame
+    3300008: Front_Upgrade
+    3300010: Glass
+    3300012: Hood_Intake
+    3300014: Hood_Powerful
+    3300016: Hood_Standard
+    3300018: Lights
+    3300020: PoliceDecals
+    3300022: Rear_Upgrade
+    3300024: Side_Standard
+    3300026: Side_Upgrade
+    3300028: Spoiler_Standard
+    3300030: Spoiler_Upgrade
+    4300000: Lights
+    4300002: Body
+    4300004: Glass
+    4300006: Frame
+    4300008: BrakeLights
+    4300010: Front_Upgrade
+    4300012: Hood_Powerful
+    4300014: Hood_Standard
+    4300016: Hood_Intake
+    4300018: Rear_Upgrade
+    4300020: Side_Upgrade
+    4300022: Side_Standard
+    4300024: Spoiler_Standard
+    4300026: Spoiler_Upgrade
+    4300028: Collision
+    4300030: Brake-11in
+    4300032: Wheel-17x11
+    4300034: Tyre-19x11
+    4300036: Tyre-17x8
+    4300038: Tyre-19x8
+    4300040: Wheel-17x8
+    4300042: Wheel-19x8
+    4300044: Wheel-19x11
+    4300046: Tyre-15x11
+    4300048: Wheel-15x11
+    4300050: Tyre-17x11
+    4300052: Tyre-15x8
+    4300054: Brake-8in
+    4300056: Wheel-15x8
+    4300058: Disk-8in
+    4300060: Disk-11in
+    4300062: PoliceBody
+    4300064: PoliceDecals
+    4300066: CarBody
+    4300068: AutomobileBody
+    4300070: _Collision
+    11100000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 22 - Default
+    second: {fileID: 2100000, guid: 18991882749856c47931be0c92d73595, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base_BlackStripe
+    second: {fileID: 2100000, guid: 3564575d654b841f8af6386394f2271a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black
+    second: {fileID: 2100000, guid: d1199f5205c846e48a7ec10cab9304d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CarbonFiber
+    second: {fileID: 2100000, guid: 0e49b1a97c4ddb34fae83bda01f2a53b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass_Basic
+    second: {fileID: 2100000, guid: 4e54cef8fd6f3dc4b9d665a31df76310, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MetalBlended
+    second: {fileID: 2100000, guid: e68192d825a65344488e5a76a36ff560, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PoliceDecals
+    second: {fileID: 2100000, guid: c185f4be745926041823ffccb89579e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SharedHeadlight
+    second: {fileID: 2100000, guid: 172350784f3c7a74eab47afdeea0c456, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SharedRadiator
+    second: {fileID: 2100000, guid: 2041569bf54fd034caeb75cc9706b94c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TailLight
+    second: {fileID: 2100000, guid: 3601885907799824cb16564e94821fc0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TrimBlack
+    second: {fileID: 2100000, guid: 4c5c111e9f553314d9738c29b8765f62, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: collision
+    second: {fileID: 2100000, guid: c3f9851475b7aad42885bef3ef8a0651, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 2
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
